@@ -1,2 +1,3 @@
 this is a git test file.
-this is a git test file modified in dev .
+this is a git test file.
+this is a git test file.
